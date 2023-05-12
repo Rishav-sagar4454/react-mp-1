@@ -1,4 +1,4 @@
-
+import '../src/assets'
 import './App.css';
 import './index.css'
 function App() {
@@ -37,8 +37,8 @@ function App() {
 					<li>Dweep.io</li>
 					<li>Made with love in India</li>
 					<li class="logo-list">
-						<img src="src\assets\Vector.png" alt="insta"/>
-						<img src="./images/InstagramLogo-c295ba7b.svg" alt="linkedin" />
+						<img src="../src/assests/insta" alt="insta"/>
+						<img src="../src/assests/linkedin" alt="linkedin" />
 					</li>
 					<li>&nbsp;</li>
 					<li>hello@dweep.io</li>
