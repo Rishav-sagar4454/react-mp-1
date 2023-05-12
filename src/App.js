@@ -1,4 +1,6 @@
-import '../src/assets'
+import '../src/assets/Vector.png'
+import '../src/assets/insta.svg'
+import '../src/assets/linkedin.svg'
 import './App.css';
 import './index.css'
 function App() {
@@ -16,6 +18,7 @@ function App() {
       <input type="email" placeholder="Your e-mail address" class="t5"/>
       <button onclick=" myFunction"class="t6"> Register Now </button>
        </form >
+       <br></br>
        <div class="bottom-line">Free - No Spam - No Data Sharing</div>
        
      </div>
@@ -37,8 +40,8 @@ function App() {
 					<li>Dweep.io</li>
 					<li>Made with love in India</li>
 					<li class="logo-list">
-						<img src="../src/assests/insta" alt="insta"/>
-						<img src="../src/assests/linkedin" alt="linkedin" />
+						<img src="../src/assests/insta.svg" alt="insta"/>
+						<img src="../src/assests/linkedin.svg" alt="linkedin" />
 					</li>
 					<li>&nbsp;</li>
 					<li>hello@dweep.io</li>
